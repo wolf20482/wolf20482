@@ -4,9 +4,9 @@
 **wolf20482/wolf20482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Email: attobot@outlook.com
-Website: https://wolf20482.xyz
-Discord: Wolf20482#3390
+* Email: attobot@outlook.com
+* Website: https://wolf20482.xyz
+* Discord: Wolf20482#3390
 
 **My projects:**
 [AttoBot](https://attobot.xyz)
