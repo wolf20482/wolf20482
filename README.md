@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=wolf20482">
 </div>
 
-<h4>My name is Wolf, I'm working as a part-time freelancer. I am interested in becoming a web, Android and Windows developer, I am currently working with Node.js, Javascript, Kotlin, Java, Dart, Golang and C++ (still learning) and PHP.<h4> 
+<h4>My name is Wolf, I'm a programmer and translator. I am interested in becoming a web, Android and Windows developer, I am currently working with Node.js, Javascript, Kotlin, Java, Dart, Golang and C++ (still learning) and PHP.<h4> 
   
 ## 🔧 **Technologies And Languages I Work With**
 
@@ -22,6 +22,9 @@
 ![](https://img.shields.io/badge/Cloud-Qovery-informational?style=flat&logo=qovery&logoColor=white&color=2bbc8a)
 
 ## 🚧 **My Side Projects**
+<div align="center">
+<a href="https://github.com/jishinmonitor/meta"><img src="https://raw.githubusercontent.com/jishinmonitor/meta/main/App-Github-Banner.png" alt="Jishin Monitor"></a>
+</div>
 
 ## **Contact**
 
