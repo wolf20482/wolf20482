@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=wolf20482">
 </div>
 
-<h4>My name is Wolf, I'm a programmer and translator. I am interested in becoming a web, Android and Windows developer, I am currently working with Node.js, Javascript, Kotlin, Java, Dart, Golang and C++ (still learning) and PHP.<h4> 
+<h4>My name is Wolf, I'm a programmer and translator. I am currently working with Node.js, Javascript, Kotlin, Java, Dart, Golang and C++ (still learning) and PHP.<h4> 
   
 ## 🔧 **Technologies And Languages I Work With**
 
