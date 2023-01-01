@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=wolf20482">
 </div>
 
-<h4>My name is Wolf, I'm a programmer and translator. I am currently working with Node.js, Javascript, Kotlin, Java, Dart, Golang and C++ (still learning) and PHP.<h4> 
+<h4>My name is Wolf, I'm a programmer and translator. I primarily work with Node.js and frontend JavaScript.
   
 ## 🔧 **Technologies And Languages I Work With**
 
@@ -10,16 +10,10 @@
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Qovery-informational?style=flat&logo=qovery&logoColor=white&color=2bbc8a)
 
 ## **Contact**
 
