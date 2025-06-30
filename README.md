@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=wolf20482">
 </div>
 
-<h4>My name is Bach, I'm a CS student and meteorology enthusiast. I primarily work with Node.js and frontend JavaScript.
+<h4>I'm a CS student and meteorology enthusiast. I primarily work with Node.js and frontend JavaScript.
   
 ## 🔧 **Technologies And Languages I Work With**
 
